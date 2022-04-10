@@ -1,4 +1,4 @@
-# Layouts
+# Netflix Layout
 
 Meu Primeiro desafio em Android Studio foi recriar a interface do  NETFLIX.
 
